@@ -10,3 +10,4 @@ master one
 master two
 master three
 local one
+local two
