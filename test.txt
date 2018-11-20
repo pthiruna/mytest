@@ -9,3 +9,4 @@ slave two
 master one
 master two
 master three
+master four
