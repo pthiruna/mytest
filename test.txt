@@ -8,3 +8,4 @@ slave one
 slave two
 master one
 master two
+master three
