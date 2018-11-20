@@ -7,3 +7,4 @@ six
 slave one
 slave two
 master one
+master two
