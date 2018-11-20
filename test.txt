@@ -3,5 +3,6 @@ two
 four
 three
 five
-
 six
+slave one
+slave two
