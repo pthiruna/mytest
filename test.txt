@@ -4,3 +4,4 @@ four
 three
 five
 slave one
+slave two
