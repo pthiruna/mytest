@@ -7,3 +7,4 @@ six
 slave one
 slave two
 local one
+local two
