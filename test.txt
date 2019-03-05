@@ -17,3 +17,4 @@ local four
 master five
 local2  one
 local3 one
+new master
